@@ -1,2 +1,3 @@
 # sri0101
-new project 
+This is my first git repository.
+Author - Srihar Kadiyam
